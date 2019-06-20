@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/type-theme"
+baseurl: ""
 url: "https://orlem.co.uk/"
 
 # THEME-SPECIFIC CONFIGURATION
