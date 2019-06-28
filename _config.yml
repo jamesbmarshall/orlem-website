@@ -6,7 +6,7 @@ url: "https://orlem.co.uk/"
 theme_settings:
   # Meta
   title: Orlem
-  avatar: assets/img/avatar.png
+  avatar: assets/img/orlem_logo.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
