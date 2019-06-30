@@ -27,7 +27,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "rohanchandra/type-theme"
+  github: 
   gitter:
   google_plus:
   instagram:
@@ -38,7 +38,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "twitter"
+  twitter: "OrlemUK"
   wordpress:
   youtube:
 
